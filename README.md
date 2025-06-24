@@ -1,1 +1,3 @@
-Testando o git via Terminal do VSCode.
+## Objetivo do projeto
+
+Esse projeto serve para testar Git, GitHub e comandos no Fedora.
