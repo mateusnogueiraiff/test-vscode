@@ -2,7 +2,7 @@
 
 Esse projeto serve para testar Git, GitHub e comandos no Fedora.
 
-## Como instalar
+## Como acessar o repositório no VSCode
 
 1. Clone o repositório:
    ```bash
